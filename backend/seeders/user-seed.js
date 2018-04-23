@@ -7,12 +7,14 @@ let userArr = [
 
 {
     email_address: 'jaydensmith@gmail.com',
+    fullName: 'Jayden Smith',
     password: 'lovemusicx3'
   },
 
 
 {
     email_address: 'andrewgreene@yahoo.com',
+    fullName: 'Andrew Greene',
     password:'livelearngrow'
 
   },
