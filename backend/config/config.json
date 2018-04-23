@@ -9,14 +9,14 @@
   "test": {
     "username": "tionnawilsonpierce",
     "password": null,
-    "database": "database_test",
+    "database": "wots_db",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
     "username": "tionnawilsonpierce",
     "password": null,
-    "database": "database_production",
+    "database": "wots_db",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
