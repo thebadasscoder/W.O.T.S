@@ -16,5 +16,50 @@
   "bugs": {
     "url": "https://github.com/twilsonpierce/W.O.T.S/issues"
   },
-  "homepage": "https://github.com/twilsonpierce/W.O.T.S#readme"
+  "homepage": "https://github.com/twilsonpierce/W.O.T.S#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "connect-session-sequelize": "^5.2.1",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.3",
+    "css-loader": "^0.28.11",
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "formidable": "^1.2.1",
+    "fs": "0.0.1-security",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.2",
+    "passport": "^0.4.0",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "sequelize": "^4.37.6",
+    "sequelize-cli": "^4.0.0",
+    "sqlite3": "^4.0.0",
+    "style-loader": "^0.20.3",
+    "supertest": "^3.0.0",
+    "url-loader": "^1.0.1",
+    "webpack-cli": "^2.0.12",
+    "webpack-dev-server": "^3.1.1",
+    "webpack-livereload-plugin": "^2.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.4",
+    "webpack": "^2.7.0"
+  }
 }
