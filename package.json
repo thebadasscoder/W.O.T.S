@@ -1,0 +1,20 @@
+{
+  "name": "W.O.T.S",
+  "version": "1.0.0",
+  "description": "Word On The Street is a web/mobile app that I have built during the 2018 Headlight Full-Stack Web Engineering Tournament.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilsonpierce/W.O.T.S.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twilsonpierce/W.O.T.S/issues"
+  },
+  "homepage": "https://github.com/twilsonpierce/W.O.T.S#readme"
+}
