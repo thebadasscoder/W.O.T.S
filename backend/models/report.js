@@ -6,12 +6,12 @@ module.exports = (sequelize, DataTypes) => {
     address: DataTypes.STRING,
     city: DataTypes.STRING,
     state: DataTypes.STRING,
-    zipcode: DataTypes.INTEGER,
+    zipcode: DataTypes.STRING,
     county: DataTypes.STRING,
     number_of_suspects: DataTypes.INTEGER
   }, {});
   Report.associate = function(models) {
-    // associations can be defined here
+   Report.belongsTo(models.User)
   };
   return Report;
 };
